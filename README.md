@@ -1,5 +1,5 @@
 # Under Construction
-
+<!--
 # Carolyn Stransky
 
 _Software developer and journalist based in Berlin, Germany_ <br>
@@ -119,3 +119,4 @@ Created [Qarma](https://github.com/lcorr8/qarma), an online platform to report a
 
 **International Exchange** studying Political Science<br>
 [Yeditepe Üniversitesi](https://www.beloit.edu/campus/news/?story_id=381343) - Istanbul, Turkey _(Spring 2013)_
+-->
