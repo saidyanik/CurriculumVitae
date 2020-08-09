@@ -1,12 +1,10 @@
-# Under Construction
+# Ahmed Said Yanik
+
+_CS student and Photography enthusiast based in Los Angeles, CA, USA_ <br>
+
+
+[Email](mailto:saidyanik.me@gmail.com) / [Website](https://saidyanik.github.io/) / [LinkedIn](https://www.linkedin.com/in/ahmedsaidyanik/) / [GitHub](https://github.com/saidyanik) / [Twitter](https://twitter.com/asaidyanik/)
 <!--
-# Carolyn Stransky
-
-_Software developer and journalist based in Berlin, Germany_ <br>
-_(und ja ich lerne deutsch 🍻)_
-
-[Email](mailto:hello@workwithcarolyn.com) / [Website](https://workwithcarolyn.com/) / [LinkedIn](https://www.linkedin.com/in/carolstran/) / [GitHub](https://github.com/carolstran/) / [Twitter](https://twitter.com/carolstran/) / [DEV](https://dev.to/carolstran/)
-
 ## 👩🏼‍💻 Technical Experience
 
 **Software Engineer** @ [Meeshkan](http://meeshkan.com/) _(Oct 2019 - Present)_ <br>
@@ -119,5 +117,5 @@ Created [Qarma](https://github.com/lcorr8/qarma), an online platform to report a
 [Gebze Tecnical University](http://www.gtu.edu.tr/) - Kocaeli, Turkey _(2017 - 2018)_
 
 **High School**<br>
-[Bornova Anadolu Lisesi(Izmir Koleji)](http://izmirbal.meb.k12.tr/) - Izmir, Turkey _(2012 - 2016)_
+[Bornova Anadolu Lisesi (Izmir Koleji)](http://izmirbal.meb.k12.tr/) - Izmir, Turkey _(2012 - 2016)_
 
