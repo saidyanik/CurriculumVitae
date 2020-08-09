@@ -109,15 +109,15 @@ Created [Qarma](https://github.com/lcorr8/qarma), an online platform to report a
 -->
 ## 👩🏼‍🎓 Education
 
-**** Majoring in Computer Science<br>
-[Los Angeles Pierce College](https://piercecollege.edu/) - Los Angeles, CA, USA _(2019 - 2020)_ <br>
+**In Progress** Majoring in Computer Science<br>
+[Los Angeles Pierce College](https://piercecollege.edu/) - Los Angeles, CA, USA _(2019 - Today)_ <br>
 
-**** Majoring in Computer Science<br>
+**Some College Courses** Majoring in Computer Science<br>
 [Santa Monica College](https://www.smc.edu/) - Los Angeles, CA, USA _(2018 - 2019)_
 
-**** Majoring in Electronic Engineering<br>
+**Some College Courses** Majoring in Electronic Engineering<br>
 [Gebze Tecnical University](http://www.gtu.edu.tr/) - Kocaeli, Turkey _(2017 - 2018)_
 
-**High School** 
+**High School**<br>
 [Bornova Anadolu Lisesi(Izmir Koleji)](http://izmirbal.meb.k12.tr/) - Izmir, Turkey _(2012 - 2016)_
 
