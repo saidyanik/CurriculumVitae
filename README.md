@@ -106,17 +106,18 @@ A network of sexual violence survivors who volunteer to share their stories.
 Created [Qarma](https://github.com/lcorr8/qarma), an online platform to report and retrieve lost & found objects for travelers abroad.
 <br><br>
 
+-->
 ## 👩🏼‍🎓 Education
 
-**12-week intensive coding course** focused on full-stack JavaScript<br>
-[SPICED Academy](https://www.spiced-academy.com/) - Berlin, Germany _(Apr 2017 - Jun 2017)_ <br>
+**** Majoring in Computer Science<br>
+[Los Angeles Pierce College](https://piercecollege.edu/) - Los Angeles, CA, USA _(2019 - 2020)_ <br>
 
-**Bachelor of Arts** in Journalism and Media Studies<br>
-[Beloit College](https://www.beloit.edu/search/?q=carolyn+stransky&x=0&y=0&as_sitesearch=https%3A%2F%2Fwww.beloit.edu%2F) - Beloit, Wisconsin, USA _(2011 - 2015)_
+**** Majoring in Computer Science<br>
+[Santa Monica College](https://www.smc.edu/) - Los Angeles, CA, USA _(2018 - 2019)_
 
-**Washington Semester Program** for Journalism and New Media<br>
-[American University](https://www.beloit.edu/campus/news/?story_id=427353) - Washington DC, USA _(Fall 2014)_
+**** Majoring in Electronic Engineering<br>
+[Gebze Tecnical University](http://www.gtu.edu.tr/) - Kocaeli, Turkey _(2017 - 2018)_
 
-**International Exchange** studying Political Science<br>
-[Yeditepe Üniversitesi](https://www.beloit.edu/campus/news/?story_id=381343) - Istanbul, Turkey _(Spring 2013)_
--->
+**High School** 
+[Bornova Anadolu Lisesi(Izmir Koleji)](http://izmirbal.meb.k12.tr/) - Izmir, Turkey _(2012 - 2016)_
+
