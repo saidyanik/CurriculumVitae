@@ -1,6 +1,6 @@
 # Ahmed Said Yanik
 
-_CS student and Photography enthusiast based in Los Angeles, CA, USA_ <br>
+_CS Student and Film Photography enthusiast based in Los Angeles, CA, USA_ <br>
 
 
 [Email](mailto:saidyanik.me@gmail.com) / [Website](https://saidyanik.github.io/) / [LinkedIn](https://www.linkedin.com/in/ahmedsaidyanik/) / [GitHub](https://github.com/saidyanik) / [Twitter](https://twitter.com/asaidyanik/)
@@ -76,9 +76,15 @@ Creating and executing free two-day web development workshops.
   - **Want me on your podcast or panel?**
     <br>🎙 Check out my website for more information: [Podcasts](https://workwithcarolyn.com/speaking/podcasts), [Panels](https://workwithcarolyn.com/speaking/panels), [Something else?](mailto:hello@workwithcarolyn.com)
     <br><br>
-
+-->
 ## 🌐 On The Side
 
+**Founding President** @ [Gebze Teknik Üniversitesi Fotoğraf ve Kısa Film Topluluğu (GTÜ FKF)](https://www.instagram.com/gtufkf/) _(Apr 2018 – Sep 2018 - 6 mos )_<br>
+A photography and short film club for Gebze Teknik Üniversitesi students and staff.
+  - organizing student events like photo hunts
+  - giving lectures on basics of photography and visual arts
+  <br><br>
+<!--
 **Web Development Instructor** @ [ReDI School of Digital Integration](https://www.redi-school.org/) _(Aug 2017 - Present)_<br>
 Non-profit digital school for tech-interested newcomers applying for asylum in Germany.
   - Built and continuously developed the course curriculum with a team of four instructors
@@ -87,12 +93,6 @@ Non-profit digital school for tech-interested newcomers applying for asylum in G
   - _Note: Took a break from teaching in 2019_
   <br><br>
 
-**Co-Organizer** @ [QueerJS](https://queerjs.com/) _(Jun 2019 - Present)_<br>
-🏳️‍🌈 A meetup for everyone where queer speakers take the stage.
-  - Selecting speakers and scheduling events
-  - Fostering an inclusive community and enforcing the code of conduct
-  - 🐻 _Previously co-organized [BerlinJS](https://berlinjs.org/) from May 2018 - May 2020_
-  <br><br>
 
 **Speakers Bureau Member** @ [RAINN](https://www.rainn.org/speakers-bureau) _(Oct 2015 - Present)_<br>
 A network of sexual violence survivors who volunteer to share their stories.
