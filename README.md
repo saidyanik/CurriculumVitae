@@ -28,5 +28,5 @@ A photography and short film club for Gebze Teknik Üniversitesi students and st
   - giving lectures on basics of photography and visual arts
   
   **Volunteer** @ [Pacifica Institute](http://pacificainstitute.org/) _(2018 – Present )_<br>
-  - Pacifica Institute seeks social justice, interfaith cooperation, advocacy through positive change and connections, relationship-building and partnership for the common good, and respecting both religious and non religious identities through its wide range of activities like Social Responsibility Projects, Festivals, Panels, Conferences, Talks, Civic Engagement Projects, Annual Dialogue and Award Ceremonies, Ramadan Iftar Dinners and Intercultural Trips and Study Abroad Programs.
+ Pacifica Institute seeks social justice, interfaith cooperation, advocacy through positive change and connections, relationship-building and partnership for the common good, and respecting both religious and non religious identities through its wide range of activities like Social Responsibility Projects, Festivals, Panels, Conferences, Talks, Civic Engagement Projects, Annual Dialogue and Award Ceremonies, Ramadan Iftar Dinners and Intercultural Trips and Study Abroad Programs.
   <br><br>
